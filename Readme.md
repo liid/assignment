@@ -21,3 +21,9 @@ The Bridge is located in CallModule.java
 You will find some ready-made components on the React Native side for displaying the Call History information.
 
 Make sure that this particular screen also updates when the React Native application enters on foreground and when you switch between the two tabs inside the application.
+
+# Tips
+
+If you are unfamiliar how React Native and Android work together you can check out the following guide from React Native (https://facebook.github.io/react-native/docs/getting-started)
+
+Here is also a decent documentation on how React Native and native Android code work together (https://facebook.github.io/react-native/docs/native-modules-android)
