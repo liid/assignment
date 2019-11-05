@@ -1,5 +1,4 @@
-# assignment
-Assignment
+# Assignment
 
 The assignment consists of two different screens.
 The first screen is a simple screen from where you can make a call on an Android Emulator.
